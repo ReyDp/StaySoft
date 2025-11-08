@@ -116,4 +116,13 @@ Esto garantiza seguridad, control y eficiencia en las operaciones diarias del mo
 Distribuido bajo licencia **MIT** — uso libre con atribución.  
 Puedes modificar, usar o distribuir este proyecto siempre que se mantenga el crédito al autor original.
 
+---
 
+## ⭐ Apoya el proyecto
+
+Si te gusta **StaySoft**, dale una ⭐ en GitHub y compártelo con otros desarrolladores.  
+Tu apoyo ayuda a seguir mejorando el sistema y creando más herramientas útiles para la comunidad.
+
+<p align="center">
+  Hecho con ❤️ por <b>Reinaldo Durán</b>
+</p>
